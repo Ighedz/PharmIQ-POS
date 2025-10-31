@@ -3,6 +3,11 @@
 PharmIQ is a modern web-based Pharmacy Point of Sale (POS) system built to empower small and mid-sized community pharmacies across Africa.
 It simplifies drug sales, inventory management, profit tracking, and patient safety through real-time interaction checks - all within one intelligent platform.
 
+## 🚧 Project Status
+PharmIQ POS is a **work in progress**.  
+The MVP version is under active development — new features are being added and existing ones refined.
+
+
 🚀 Features
 🏪 Storefront Management
 
