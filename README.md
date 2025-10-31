@@ -7,6 +7,11 @@ It simplifies drug sales, inventory management, profit tracking, and patient saf
 PharmIQ POS is a **work in progress**.  
 The MVP version is under active development — new features are being added and existing ones refined.
 
+## 🎬 Project Overview
+PharmIQ POS addresses the challenges faced by African community pharmacies in managing sales, inventory, and workflow.
+
+👉 [Watch 1-minute video overview](https://www.revid.ai/view/zLhRneEUERSxie9Ct6ub)
+
 
 🚀 Features
 🏪 Storefront Management
